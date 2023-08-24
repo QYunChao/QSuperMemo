@@ -1,0 +1,3746 @@
+Begin Element #1
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=0
+  ParentTitle=
+  Priority=90.625
+  Begin ElementInfo #1
+    Title=我的学习
+    Type=Concept
+    Status=Dismissed
+    FirstGrade=8
+    Ordinal=0.000000
+    Repetitions=0
+    Lapses=0
+    Interval=0
+    LastRepetition=09.07.23
+    AFactor=1.200
+    UFactor=0.000
+    ForgettingIndex=10
+    Reference=
+    ConceptName=Root: 我的学习
+    ConceptRoot=1
+    ConceptHook=1
+    ConceptPriority=5
+    SourceArticle=0
+  End ElementInfo #1
+  ElementColor=-1
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=0
+  Begin RepHist #1
+  End RepHist #1
+End Element #1
+
+Begin Element #2
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=1
+  ParentTitle=我的学习
+  Priority=92.1875
+  Begin ElementInfo #2
+    Title=苏轼·�?
+    Type=Topic
+    Status=Dismissed
+    FirstGrade=8
+    Ordinal=1.000000
+    Repetitions=0
+    Lapses=0
+    Interval=0
+    LastRepetition=10.07.23
+    AFactor=1.200
+    UFactor=0.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #2
+  ElementColor=-1
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=0
+  Begin RepHist #2
+    ElNo=2 Rep=2 Laps=0 Date=10.07.2023 Hour=10.754 Int=0 Grade=12 Priority=0
+    ElNo=2 Rep=1 Laps=0 Date=10.07.2023 Hour=10.752 Int=1 Grade=9 Priority=0
+  End RepHist #2
+End Element #2
+
+Begin Element #3
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=96.875
+  Begin ElementInfo #3
+    Title=定风波·莫听穿林打叶声
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=2.000000
+    Repetitions=4
+    Lapses=0
+    Interval=5
+    LastRepetition=19.07.23
+    AFactor=1.265
+    UFactor=1.667
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #3
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2\24.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=Sound
+    Cors=(1242,5104,2994,2970)
+    DisplayAt=255
+    PlayAt=196
+    Hyperlink=0
+    SoundName=G:\Download\定风波_·_西窗烛\DM_20230710143945_001.mp3F
+    SoundFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2\25.mp3
+    Text=G:\Download\定风波_·_西窗烛\DM_20230710143945_001.mp3F
+    Center=0
+    Color=-1
+    StartPosition=0
+  EndPosition=56208
+  Panel=4
+  Continuous=0
+  Transparent=0
+End Component #2
+Begin RepHist #3
+  ElNo=3 Rep=4 Laps=0 Date=19.07.2023 Hour=21.511 Int=6 Grade=10 Priority=96.875
+  ElNo=3 Rep=3 Laps=0 Date=13.07.2023 Hour=10.189 Int=2 Grade=10 Priority=73.4375
+  ElNo=3 Rep=2 Laps=0 Date=11.07.2023 Hour=15.124 Int=1 Grade=10 Priority=14.0625
+  ElNo=3 Rep=1 Laps=0 Date=10.07.2023 Hour=10.762 Int=1 Grade=9 Priority=0
+End RepHist #3
+End Element #3
+
+Begin Element #5
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=56.25
+  Begin ElementInfo #5
+    Title=定风�?[宋] 苏轼 [.]，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=4
+    Ordinal=3.000000
+    Repetitions=3
+    Lapses=0
+    Interval=47
+    LastRepetition=19.07.23
+    AFactor=4.312
+    UFactor=5.875
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #5
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 [...]，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=莫听穿林打叶�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #5
+    ElNo=5 Rep=3 Laps=0 Date=19.07.2023 Hour=21.83 Int=8 Grade=5 Priority=57.8125 Difficulty=0.642 expFI=3
+    ElNo=5 Rep=2 Laps=0 Date=11.07.2023 Hour=15.123 Int=1 Grade=4 Priority=0 Difficulty=0.504 expFI=4
+    ElNo=5 Rep=1 Laps=0 Date=10.07.2023 Hour=10.792 Int=0 Grade=8 Priority=0 expFI=99
+  End RepHist #5
+End Element #5
+
+Begin Element #4
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=75
+  Begin ElementInfo #4
+    Title=定风�?[宋] 苏轼 莫听穿林打叶声，[.]。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=4.000000
+    Repetitions=2
+    Lapses=0
+    Interval=58
+    LastRepetition=19.07.23
+    AFactor=5.045
+    UFactor=6.444
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #4
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，[...]。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\4.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=何妨吟啸且徐�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #4
+    ElNo=4 Rep=2 Laps=0 Date=19.07.2023 Hour=21.82 Int=9 Grade=5 Priority=75 Difficulty=0.532 expFI=3
+    ElNo=4 Rep=1 Laps=0 Date=10.07.2023 Hour=10.795 Int=0 Grade=8 Priority=1.5625 expFI=99
+  End RepHist #4
+End Element #4
+
+Begin Element #6
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=89.0625
+  Begin ElementInfo #6
+    Title=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。[.]，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=5.000000
+    Repetitions=2
+    Lapses=0
+    Interval=54
+    LastRepetition=19.07.23
+    AFactor=4.667
+    UFactor=6.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #6
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。[...]，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=竹杖芒鞋轻胜�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #6
+    ElNo=6 Rep=2 Laps=0 Date=19.07.2023 Hour=21.892 Int=9 Grade=5 Priority=90.625 Difficulty=0.534 expFI=3
+    ElNo=6 Rep=1 Laps=0 Date=10.07.2023 Hour=10.797 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #6
+End Element #6
+
+Begin Element #7
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=87.5
+  Begin ElementInfo #7
+    Title=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，[.]？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=6.000000
+    Repetitions=2
+    Lapses=0
+    Interval=74
+    LastRepetition=19.07.23
+    AFactor=4.801
+    UFactor=8.222
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #7
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，[...]？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=谁�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #7
+    ElNo=7 Rep=2 Laps=0 Date=19.07.2023 Hour=21.879 Int=9 Grade=5 Priority=89.0625 Difficulty=0.533 expFI=3
+    ElNo=7 Rep=1 Laps=0 Date=10.07.2023 Hour=10.798 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #7
+End Element #7
+
+Begin Element #8
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=85.9375
+  Begin ElementInfo #8
+    Title=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？[.]�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=7.000000
+    Repetitions=2
+    Lapses=0
+    Interval=85
+    LastRepetition=19.07.23
+    AFactor=4.721
+    UFactor=9.444
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #8
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？[...]�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\10.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=一蓑烟雨任平生
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1\11.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #8
+    ElNo=8 Rep=2 Laps=0 Date=19.07.2023 Hour=21.886 Int=9 Grade=5 Priority=87.5 Difficulty=0.534 expFI=3
+    ElNo=8 Rep=1 Laps=0 Date=10.07.2023 Hour=10.799 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #8
+End Element #8
+
+Begin Element #9
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=76.5625
+  Begin ElementInfo #9
+    Title=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?[.]，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=8.000000
+    Repetitions=2
+    Lapses=0
+    Interval=67
+    LastRepetition=19.07.23
+    AFactor=5.370
+    UFactor=7.444
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #9
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?[...]，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1\12.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=料峭春风吹酒�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1\13.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #9
+    ElNo=9 Rep=2 Laps=0 Date=19.07.2023 Hour=21.543 Int=9 Grade=5 Priority=76.5625 Difficulty=0.532 expFI=3
+    ElNo=9 Rep=1 Laps=0 Date=10.07.2023 Hour=10.837 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #9
+End Element #9
+
+Begin Element #10
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=78.125
+  Begin ElementInfo #10
+    Title=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，[.]，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=9.000000
+    Repetitions=1
+    Lapses=0
+    Interval=10
+    LastRepetition=10.07.23
+    AFactor=3.920
+    UFactor=10.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #10
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，[...]，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1\14.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=微冷
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1\15.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #10
+    ElNo=10 Rep=1 Laps=0 Date=10.07.2023 Hour=10.838 Int=0 Grade=8 Priority=4.6875 expFI=99
+  End RepHist #10
+End Element #10
+
+Begin Element #11
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=84.375
+  Begin ElementInfo #11
+    Title=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，[.]。回首向来萧瑟处，归去，也无风雨也无晴�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=10.000000
+    Repetitions=1
+    Lapses=0
+    Interval=12
+    LastRepetition=10.07.23
+    AFactor=3.920
+    UFactor=12.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #11
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，[...]。回首向来萧瑟处，归去，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1\16.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=山头斜照却相�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1\17.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #11
+    ElNo=11 Rep=1 Laps=0 Date=10.07.2023 Hour=10.839 Int=0 Grade=8 Priority=6.25 expFI=99
+  End RepHist #11
+End Element #11
+
+Begin Element #12
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=81.25
+  Begin ElementInfo #12
+    Title=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。[.]，归去，也无风雨也无晴�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=11.000000
+    Repetitions=2
+    Lapses=0
+    Interval=85
+    LastRepetition=19.07.23
+    AFactor=5.448
+    UFactor=9.444
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #12
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。[...]，归去，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1\18.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=回首向来萧瑟�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1\19.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #12
+    ElNo=12 Rep=2 Laps=0 Date=19.07.2023 Hour=21.538 Int=9 Grade=5 Priority=82.8125 Difficulty=0.531 expFI=3
+    ElNo=12 Rep=1 Laps=0 Date=10.07.2023 Hour=10.84 Int=0 Grade=8 Priority=6.25 expFI=99
+  End RepHist #12
+End Element #12
+
+Begin Element #13
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=82.8125
+  Begin ElementInfo #13
+    Title=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，[.]，也无风雨也无晴�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=4
+    Ordinal=12.000000
+    Repetitions=2
+    Lapses=0
+    Interval=66
+    LastRepetition=19.07.23
+    AFactor=3.161
+    UFactor=7.333
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #13
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，[...]，也无风雨也无晴�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\1\20.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=归去
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2\21.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #13
+    ElNo=13 Rep=2 Laps=0 Date=19.07.2023 Hour=21.869 Int=9 Grade=4 Priority=84.375 Difficulty=0.533 expFI=3
+    ElNo=13 Rep=1 Laps=0 Date=10.07.2023 Hour=10.841 Int=0 Grade=8 Priority=7.8125 expFI=99
+  End RepHist #13
+End Element #13
+
+Begin Element #14
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=3
+  ParentTitle=定风波·莫听穿林打叶声
+  Priority=79.6875
+  Begin ElementInfo #14
+    Title=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，[.]�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=13.000000
+    Repetitions=3
+    Lapses=0
+    Interval=61
+    LastRepetition=19.07.23
+    AFactor=5.301
+    UFactor=8.714
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=3
+  End ElementInfo #14
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?[宋] 苏轼 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生�?料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，[...]�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2\22.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=也无风雨也无�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2\23.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #14
+    ElNo=14 Rep=3 Laps=0 Date=19.07.2023 Hour=21.889 Int=7 Grade=5 Priority=81.25 Difficulty=0.668 expFI=2
+    ElNo=14 Rep=2 Laps=0 Date=12.07.2023 Hour=10.49 Int=2 Grade=5 Priority=25 Difficulty=0.456 expFI=7
+    ElNo=14 Rep=1 Laps=0 Date=10.07.2023 Hour=10.843 Int=0 Grade=8 Priority=6.25 expFI=99
+  End RepHist #14
+End Element #14
+
+Begin Element #15
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=98.4375
+  Begin ElementInfo #15
+    Title=定风波·常羡人间琢玉郎
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=14.000000
+    Repetitions=3
+    Lapses=0
+    Interval=3
+    LastRepetition=19.07.23
+    AFactor=1.242
+    UFactor=1.500
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #15
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\4\48.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #15
+    ElNo=15 Rep=3 Laps=0 Date=19.07.2023 Hour=21.837 Int=7 Grade=10 Priority=89.0625
+    ElNo=15 Rep=2 Laps=0 Date=12.07.2023 Hour=10.498 Int=1 Grade=10 Priority=18.75
+    ElNo=15 Rep=1 Laps=0 Date=11.07.2023 Hour=15.2 Int=0 Grade=9 Priority=1.5625
+  End RepHist #15
+End Element #15
+
+Begin Element #16
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=0
+  Begin ElementInfo #16
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 [.]，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=4
+    Ordinal=15.000000
+    Repetitions=3
+    Lapses=0
+    Interval=32
+    LastRepetition=19.07.23
+    AFactor=4.289
+    UFactor=4.571
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #16
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 [...]，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=常羡人间琢玉�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2\27.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #16
+    ElNo=16 Rep=3 Laps=0 Date=19.07.2023 Hour=21.242 Int=7 Grade=5 Priority=0 Difficulty=0.62 expFI=3
+    ElNo=16 Rep=2 Laps=0 Date=12.07.2023 Hour=10.488 Int=1 Grade=4 Priority=0 Difficulty=0.515 expFI=3
+    ElNo=16 Rep=1 Laps=0 Date=11.07.2023 Hour=15.218 Int=0 Grade=8 Priority=0 expFI=99
+  End RepHist #16
+End Element #16
+
+Begin Element #17
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=71.875
+  Begin ElementInfo #17
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，[.]。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=16.000000
+    Repetitions=2
+    Lapses=0
+    Interval=41
+    LastRepetition=13.07.23
+    AFactor=4.164
+    UFactor=20.500
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #17
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，[...]。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2\28.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=天应乞与点酥�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2\29.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #17
+    ElNo=17 Rep=2 Laps=0 Date=13.07.2023 Hour=10.176 Int=2 Grade=5 Priority=50 Difficulty=0.535 expFI=1
+    ElNo=17 Rep=1 Laps=0 Date=11.07.2023 Hour=15.219 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #17
+End Element #17
+
+Begin Element #18
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=57.8125
+  Begin ElementInfo #18
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。[.]，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=17.000000
+    Repetitions=2
+    Lapses=0
+    Interval=77
+    LastRepetition=19.07.23
+    AFactor=4.963
+    UFactor=9.625
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #18
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。[...]，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2\30.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=尽道清歌传皓�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3\31.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #18
+    ElNo=18 Rep=2 Laps=0 Date=19.07.2023 Hour=21.629 Int=8 Grade=5 Priority=59.375 Difficulty=0.532 expFI=3
+    ElNo=18 Rep=1 Laps=0 Date=11.07.2023 Hour=15.221 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #18
+End Element #18
+
+Begin Element #19
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=73.4375
+  Begin ElementInfo #19
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，[.]，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=18.000000
+    Repetitions=2
+    Lapses=0
+    Interval=62
+    LastRepetition=19.07.23
+    AFactor=5.013
+    UFactor=7.750
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #19
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，[...]，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3\32.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=风起
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3\33.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #19
+    ElNo=19 Rep=2 Laps=0 Date=19.07.2023 Hour=21.627 Int=8 Grade=5 Priority=73.4375 Difficulty=0.532 expFI=3
+    ElNo=19 Rep=1 Laps=0 Date=11.07.2023 Hour=15.222 Int=0 Grade=8 Priority=6.25 expFI=99
+  End RepHist #19
+End Element #19
+
+Begin Element #20
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=59.375
+  Begin ElementInfo #20
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，[.]�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=19.000000
+    Repetitions=2
+    Lapses=0
+    Interval=49
+    LastRepetition=19.07.23
+    AFactor=5.190
+    UFactor=6.125
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #20
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，[...]�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3\34.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=雪飞炎海变清�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3\35.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #20
+    ElNo=20 Rep=2 Laps=0 Date=19.07.2023 Hour=21.525 Int=8 Grade=5 Priority=60.9375 Difficulty=0.532 expFI=3
+    ElNo=20 Rep=1 Laps=0 Date=11.07.2023 Hour=15.224 Int=0 Grade=8 Priority=4.6875 expFI=99
+  End RepHist #20
+End Element #20
+
+Begin Element #21
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=60.9375
+  Begin ElementInfo #21
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?[.]，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=20.000000
+    Repetitions=2
+    Lapses=0
+    Interval=56
+    LastRepetition=19.07.23
+    AFactor=5.464
+    UFactor=7.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #21
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?[...]，微笑，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3\36.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=万里归来年愈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3\37.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #21
+    ElNo=21 Rep=2 Laps=0 Date=19.07.2023 Hour=21.494 Int=8 Grade=5 Priority=62.5 Difficulty=0.531 expFI=3
+    ElNo=21 Rep=1 Laps=0 Date=11.07.2023 Hour=15.225 Int=0 Grade=8 Priority=6.25 expFI=99
+  End RepHist #21
+End Element #21
+
+Begin Element #22
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=67.1875
+  Begin ElementInfo #22
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，[.]，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=21.000000
+    Repetitions=1
+    Lapses=0
+    Interval=9
+    LastRepetition=11.07.23
+    AFactor=3.920
+    UFactor=9.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #22
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，[...]，笑时犹带岭梅香。试问岭南应不好？却道：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3\38.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=微笑
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3\39.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #22
+    ElNo=22 Rep=1 Laps=0 Date=11.07.2023 Hour=15.226 Int=0 Grade=8 Priority=7.8125 expFI=99
+  End RepHist #22
+End Element #22
+
+Begin Element #23
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=70.3125
+  Begin ElementInfo #23
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，[.]。试问岭南应不好？却道：此心安处是吾乡�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=22.000000
+    Repetitions=2
+    Lapses=0
+    Interval=74
+    LastRepetition=19.07.23
+    AFactor=4.528
+    UFactor=9.250
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #23
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，[...]。试问岭南应不好？却道：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\3\40.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=笑时犹带岭梅�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\4\41.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #23
+    ElNo=23 Rep=2 Laps=0 Date=19.07.2023 Hour=21.888 Int=8 Grade=5 Priority=70.3125 Difficulty=0.534 expFI=3
+    ElNo=23 Rep=1 Laps=0 Date=11.07.2023 Hour=15.227 Int=0 Grade=8 Priority=9.375 expFI=99
+  End RepHist #23
+End Element #23
+
+Begin Element #24
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=68.75
+  Begin ElementInfo #24
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。[.]？却道：此心安处是吾乡�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=23.000000
+    Repetitions=2
+    Lapses=0
+    Interval=61
+    LastRepetition=19.07.23
+    AFactor=4.581
+    UFactor=7.625
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #24
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。[...]？却道：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\4\42.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=试问岭南应不�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\4\43.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #24
+    ElNo=24 Rep=2 Laps=0 Date=19.07.2023 Hour=21.883 Int=8 Grade=5 Priority=68.75 Difficulty=0.534 expFI=3
+    ElNo=24 Rep=1 Laps=0 Date=11.07.2023 Hour=15.229 Int=0 Grade=8 Priority=9.375 expFI=99
+  End RepHist #24
+End Element #24
+
+Begin Element #25
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=64.0625
+  Begin ElementInfo #25
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？[.]：此心安处是吾乡�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=24.000000
+    Repetitions=2
+    Lapses=0
+    Interval=98
+    LastRepetition=19.07.23
+    AFactor=4.638
+    UFactor=12.250
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #25
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？[...]：此心安处是吾乡�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\4\44.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=却道
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\4\45.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #25
+    ElNo=25 Rep=2 Laps=0 Date=19.07.2023 Hour=21.877 Int=8 Grade=5 Priority=64.0625 Difficulty=0.534 expFI=3
+    ElNo=25 Rep=1 Laps=0 Date=11.07.2023 Hour=15.23 Int=0 Grade=8 Priority=7.8125 expFI=99
+  End RepHist #25
+End Element #25
+
+Begin Element #26
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=15
+  ParentTitle=定风波·常羡人间琢玉郎
+  Priority=65.625
+  Begin ElementInfo #26
+    Title=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：[.]�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=25.000000
+    Repetitions=2
+    Lapses=0
+    Interval=87
+    LastRepetition=19.07.23
+    AFactor=4.779
+    UFactor=10.875
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=15
+  End ElementInfo #26
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=定风�?· 南海归，赠王定国侍人寓娘 [宋] 苏轼 常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉�?万里归来年愈少，微笑，笑时犹带岭梅香。试问岭南应不好？却道：[...]�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\4\46.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=此心安处是吾�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\4\47.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #26
+    ElNo=26 Rep=2 Laps=0 Date=19.07.2023 Hour=21.823 Int=8 Grade=5 Priority=65.625 Difficulty=0.533 expFI=3
+    ElNo=26 Rep=1 Laps=0 Date=11.07.2023 Hour=15.232 Int=0 Grade=8 Priority=9.375 expFI=99
+  End RepHist #26
+End Element #26
+
+Begin Element #27
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=100
+  Begin ElementInfo #27
+    Title=江城子·十年生死两茫茫
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=26.000000
+    Repetitions=3
+    Lapses=0
+    Interval=3
+    LastRepetition=19.07.23
+    AFactor=1.242
+    UFactor=1.500
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #27
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6\69.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=Sound
+    Cors=(1234,4872,2985,2970)
+    DisplayAt=255
+    PlayAt=196
+    Hyperlink=0
+    SoundName=G:\Download\江城子_·_乙卯正月二十日夜记梦_·_西窗烛\DM_20230712103931_001.mp3
+    SoundFile=G:\Download\江城子_·_乙卯正月二十日夜记梦_·_西窗烛\DM_20230712103931_001.mp3
+    Text=G:\Download\江城子_·_乙卯正月二十日夜记梦_·_西窗烛\DM_20230712103931_001.mp3
+    Center=0
+    Color=-1
+    StartPosition=0
+  EndPosition=181047
+  Panel=4
+  Continuous=0
+  Transparent=0
+End Component #2
+Begin RepHist #27
+  ElNo=27 Rep=3 Laps=0 Date=19.07.2023 Hour=21.894 Int=6 Grade=10 Priority=78.125
+  ElNo=27 Rep=2 Laps=0 Date=13.07.2023 Hour=10.187 Int=1 Grade=10 Priority=32.8125
+  ElNo=27 Rep=1 Laps=0 Date=12.07.2023 Hour=10.541 Int=0 Grade=9 Priority=1.5625
+End RepHist #27
+End Element #27
+
+Begin Element #28
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=27
+  ParentTitle=江城子·十年生死两茫茫
+  Priority=1.5625
+  Begin ElementInfo #28
+    Title=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 [.]。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=27.000000
+    Repetitions=2
+    Lapses=0
+    Interval=35
+    LastRepetition=19.07.23
+    AFactor=5.918
+    UFactor=5.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=27
+  End ElementInfo #28
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 [...]。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\2\26.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=十年生死两茫�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\4\50.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #28
+    ElNo=28 Rep=2 Laps=0 Date=19.07.2023 Hour=21.245 Int=7 Grade=5 Priority=1.5625 Difficulty=0.518 expFI=2
+    ElNo=28 Rep=1 Laps=0 Date=12.07.2023 Hour=10.599 Int=0 Grade=8 Priority=1.5625 expFI=99
+  End RepHist #28
+End Element #28
+
+Begin Element #29
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=27
+  ParentTitle=江城子·十年生死两茫茫
+  Priority=43.75
+  Begin ElementInfo #29
+    Title=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。[.]。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=28.000000
+    Repetitions=2
+    Lapses=0
+    Interval=49
+    LastRepetition=19.07.23
+    AFactor=4.395
+    UFactor=7.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=27
+  End ElementInfo #29
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。[...]。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5\51.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=不思量，自难忘
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5\52.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #29
+    ElNo=29 Rep=2 Laps=0 Date=19.07.2023 Hour=21.884 Int=7 Grade=5 Priority=45.3125 Difficulty=0.534 expFI=2
+    ElNo=29 Rep=1 Laps=0 Date=12.07.2023 Hour=10.6 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #29
+End Element #29
+
+Begin Element #30
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=27
+  ParentTitle=江城子·十年生死两茫茫
+  Priority=51.5625
+  Begin ElementInfo #30
+    Title=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。[.]。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=29.000000
+    Repetitions=2
+    Lapses=0
+    Interval=63
+    LastRepetition=19.07.23
+    AFactor=4.634
+    UFactor=9.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=27
+  End ElementInfo #30
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。[...]。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5\53.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=千里孤坟，无处话凄凉
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5\54.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #30
+    ElNo=30 Rep=2 Laps=0 Date=19.07.2023 Hour=21.673 Int=7 Grade=5 Priority=53.125 Difficulty=0.533 expFI=2
+    ElNo=30 Rep=1 Laps=0 Date=12.07.2023 Hour=10.602 Int=0 Grade=8 Priority=4.6875 expFI=99
+  End RepHist #30
+End Element #30
+
+Begin Element #31
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=27
+  ParentTitle=江城子·十年生死两茫茫
+  Priority=54.6875
+  Begin ElementInfo #31
+    Title=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。[.]，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=30.000000
+    Repetitions=2
+    Lapses=0
+    Interval=48
+    LastRepetition=19.07.23
+    AFactor=4.608
+    UFactor=6.857
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=27
+  End ElementInfo #31
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。[...]，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5\55.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=纵使相逢应不识
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5\56.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #31
+    ElNo=31 Rep=2 Laps=0 Date=19.07.2023 Hour=21.833 Int=7 Grade=5 Priority=56.25 Difficulty=0.533 expFI=2
+    ElNo=31 Rep=1 Laps=0 Date=12.07.2023 Hour=10.603 Int=0 Grade=8 Priority=6.25 expFI=99
+  End RepHist #31
+End Element #31
+
+Begin Element #32
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=27
+  ParentTitle=江城子·十年生死两茫茫
+  Priority=40.625
+  Begin ElementInfo #32
+    Title=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，[.]�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=31.000000
+    Repetitions=2
+    Lapses=0
+    Interval=85
+    LastRepetition=19.07.23
+    AFactor=4.693
+    UFactor=12.143
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=27
+  End ElementInfo #32
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，[...]�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5\57.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=尘满面，鬓如�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5\58.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #32
+    ElNo=32 Rep=2 Laps=0 Date=19.07.2023 Hour=21.641 Int=7 Grade=5 Priority=43.75 Difficulty=0.533 expFI=2
+    ElNo=32 Rep=1 Laps=0 Date=12.07.2023 Hour=10.604 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #32
+End Element #32
+
+Begin Element #33
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=27
+  ParentTitle=江城子·十年生死两茫茫
+  Priority=46.875
+  Begin ElementInfo #33
+    Title=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?[.]。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=32.000000
+    Repetitions=2
+    Lapses=0
+    Interval=46
+    LastRepetition=19.07.23
+    AFactor=4.563
+    UFactor=6.571
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=27
+  End ElementInfo #33
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?[...]。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5\59.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=夜来幽梦忽还�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\5\60.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #33
+    ElNo=33 Rep=2 Laps=0 Date=19.07.2023 Hour=21.844 Int=7 Grade=5 Priority=48.4375 Difficulty=0.534 expFI=2
+    ElNo=33 Rep=1 Laps=0 Date=12.07.2023 Hour=10.606 Int=0 Grade=8 Priority=6.25 expFI=99
+  End RepHist #33
+End Element #33
+
+Begin Element #34
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=27
+  ParentTitle=江城子·十年生死两茫茫
+  Priority=45.3125
+  Begin ElementInfo #34
+    Title=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。[.]。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=33.000000
+    Repetitions=2
+    Lapses=0
+    Interval=44
+    LastRepetition=19.07.23
+    AFactor=4.487
+    UFactor=6.286
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=27
+  End ElementInfo #34
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。[...]。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6\61.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=小轩窗，正梳�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6\62.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #34
+    ElNo=34 Rep=2 Laps=0 Date=19.07.2023 Hour=21.871 Int=7 Grade=5 Priority=46.875 Difficulty=0.534 expFI=2
+    ElNo=34 Rep=1 Laps=0 Date=12.07.2023 Hour=10.607 Int=0 Grade=8 Priority=6.25 expFI=99
+  End RepHist #34
+End Element #34
+
+Begin Element #35
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=27
+  ParentTitle=江城子·十年生死两茫茫
+  Priority=53.125
+  Begin ElementInfo #35
+    Title=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。[.]。料得年年肠断处，明月夜，短松冈�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=34.000000
+    Repetitions=2
+    Lapses=0
+    Interval=56
+    LastRepetition=19.07.23
+    AFactor=4.429
+    UFactor=8.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=27
+  End ElementInfo #35
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。[...]。料得年年肠断处，明月夜，短松冈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6\63.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=相顾无言，惟有泪千行
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6\64.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #35
+    ElNo=35 Rep=2 Laps=0 Date=19.07.2023 Hour=21.88 Int=7 Grade=5 Priority=54.6875 Difficulty=0.534 expFI=2
+    ElNo=35 Rep=1 Laps=0 Date=12.07.2023 Hour=10.608 Int=0 Grade=8 Priority=10.9375 expFI=99
+  End RepHist #35
+End Element #35
+
+Begin Element #36
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=27
+  ParentTitle=江城子·十年生死两茫茫
+  Priority=50
+  Begin ElementInfo #36
+    Title=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。[.]，明月夜，短松冈�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=35.000000
+    Repetitions=2
+    Lapses=0
+    Interval=49
+    LastRepetition=19.07.23
+    AFactor=5.195
+    UFactor=7.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=27
+  End ElementInfo #36
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。[...]，明月夜，短松冈�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6\65.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=料得年年肠断�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6\66.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #36
+    ElNo=36 Rep=2 Laps=0 Date=19.07.2023 Hour=21.492 Int=7 Grade=5 Priority=51.5625 Difficulty=0.531 expFI=2
+    ElNo=36 Rep=1 Laps=0 Date=12.07.2023 Hour=10.609 Int=0 Grade=8 Priority=9.375 expFI=99
+  End RepHist #36
+End Element #36
+
+Begin Element #37
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=27
+  ParentTitle=江城子·十年生死两茫茫
+  Priority=48.4375
+  Begin ElementInfo #37
+    Title=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，[.]�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=36.000000
+    Repetitions=2
+    Lapses=0
+    Interval=77
+    LastRepetition=19.07.23
+    AFactor=4.520
+    UFactor=11.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=27
+  End ElementInfo #37
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(98,72,9701,7808)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 乙卯正月二十日夜记梦 [宋] 苏轼 十年生死两茫茫。不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜�?夜来幽梦忽还乡。小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，[...]�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6\67.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(98,7951,4987,1490)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=明月夜，短松�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6\68.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #37
+    ElNo=37 Rep=2 Laps=0 Date=19.07.2023 Hour=21.853 Int=7 Grade=5 Priority=50 Difficulty=0.534 expFI=2
+    ElNo=37 Rep=1 Laps=0 Date=12.07.2023 Hour=10.61 Int=0 Grade=8 Priority=9.375 expFI=99
+  End RepHist #37
+End Element #37
+
+Begin Element #38
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=62.5
+  Begin ElementInfo #38
+    Title=江城子·密州出�?
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=37.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #38
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9\91.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #38
+    ElNo=38 Rep=2 Laps=0 Date=19.07.2023 Hour=21.888 Int=6 Grade=10 Priority=37.5
+    ElNo=38 Rep=1 Laps=0 Date=13.07.2023 Hour=10.148 Int=0 Grade=9 Priority=3.125
+  End RepHist #38
+End Element #38
+
+Begin Element #39
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=38
+  ParentTitle=江城子·密州出�?
+  Priority=39.0625
+  Begin ElementInfo #39
+    Title=江城�?· 密州出猎 [宋] 苏轼 [.]，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=38.000000
+    Repetitions=2
+    Lapses=0
+    Interval=68
+    LastRepetition=19.07.23
+    AFactor=4.956
+    UFactor=11.333
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=38
+  End ElementInfo #39
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(104,116,9698,7703)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 [...]，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\6\70.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(104,7935,4987,1485)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=老夫聊发少年�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7\72.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #39
+    ElNo=39 Rep=2 Laps=0 Date=19.07.2023 Hour=21.395 Int=6 Grade=5 Priority=42.1875 Difficulty=0.532 expFI=2
+    ElNo=39 Rep=1 Laps=0 Date=13.07.2023 Hour=10.159 Int=0 Grade=8 Priority=4.6875 expFI=99
+  End RepHist #39
+End Element #39
+
+Begin Element #40
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=38
+  ParentTitle=江城子·密州出�?
+  Priority=37.5
+  Begin ElementInfo #40
+    Title=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，[.]，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=39.000000
+    Repetitions=2
+    Lapses=0
+    Interval=60
+    LastRepetition=19.07.23
+    AFactor=4.371
+    UFactor=10.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=38
+  End ElementInfo #40
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(104,116,9698,7703)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，[...]，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7\73.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(104,7935,4987,1485)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=左牵黄，右擎�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7\74.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #40
+    ElNo=40 Rep=2 Laps=0 Date=19.07.2023 Hour=21.852 Int=6 Grade=5 Priority=39.0625 Difficulty=0.534 expFI=2
+    ElNo=40 Rep=1 Laps=0 Date=13.07.2023 Hour=10.161 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #40
+End Element #40
+
+Begin Element #41
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=38
+  ParentTitle=江城子·密州出�?
+  Priority=23.4375
+  Begin ElementInfo #41
+    Title=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，[.]。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=40.000000
+    Repetitions=2
+    Lapses=0
+    Interval=59
+    LastRepetition=19.07.23
+    AFactor=5.048
+    UFactor=9.833
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=38
+  End ElementInfo #41
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(104,116,9698,7703)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，[...]。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7\75.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(104,7935,4987,1485)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=锦帽貂裘，千骑卷平冈
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7\76.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #41
+    ElNo=41 Rep=2 Laps=0 Date=19.07.2023 Hour=21.393 Int=6 Grade=5 Priority=31.25 Difficulty=0.531 expFI=2
+    ElNo=41 Rep=1 Laps=0 Date=13.07.2023 Hour=10.163 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #41
+End Element #41
+
+Begin Element #42
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=38
+  ParentTitle=江城子·密州出�?
+  Priority=15.625
+  Begin ElementInfo #42
+    Title=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。[.]，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=41.000000
+    Repetitions=2
+    Lapses=0
+    Interval=32
+    LastRepetition=19.07.23
+    AFactor=5.475
+    UFactor=5.333
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=38
+  End ElementInfo #42
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(104,116,9698,7703)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。[...]，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7\77.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(104,7935,4987,1485)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=为报倾城随太�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7\78.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #42
+    ElNo=42 Rep=2 Laps=0 Date=19.07.2023 Hour=21.248 Int=6 Grade=5 Priority=26.5625 Difficulty=0.53 expFI=2
+    ElNo=42 Rep=1 Laps=0 Date=13.07.2023 Hour=10.165 Int=0 Grade=8 Priority=3.125 expFI=99
+  End RepHist #42
+End Element #42
+
+Begin Element #43
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=38
+  ParentTitle=江城子·密州出�?
+  Priority=18.75
+  Begin ElementInfo #43
+    Title=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，[.]�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=42.000000
+    Repetitions=2
+    Lapses=0
+    Interval=39
+    LastRepetition=19.07.23
+    AFactor=5.296
+    UFactor=6.500
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=38
+  End ElementInfo #43
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(104,116,9698,7703)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，[...]�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7\79.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(104,7935,4987,1485)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=亲射虎，看孙�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7\80.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #43
+    ElNo=43 Rep=2 Laps=0 Date=19.07.2023 Hour=21.376 Int=6 Grade=5 Priority=28.125 Difficulty=0.53 expFI=2
+    ElNo=43 Rep=1 Laps=0 Date=13.07.2023 Hour=10.166 Int=0 Grade=8 Priority=4.6875 expFI=99
+  End RepHist #43
+End Element #43
+
+Begin Element #44
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=38
+  ParentTitle=江城子·密州出�?
+  Priority=32.8125
+  Begin ElementInfo #44
+    Title=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?[.]。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=43.000000
+    Repetitions=2
+    Lapses=0
+    Interval=36
+    LastRepetition=19.07.23
+    AFactor=4.465
+    UFactor=6.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=38
+  End ElementInfo #44
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(104,116,9698,7703)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?[...]。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8\81.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(104,7935,4987,1485)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=酒酣胸胆尚开�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8\82.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #44
+    ElNo=44 Rep=2 Laps=0 Date=19.07.2023 Hour=21.666 Int=6 Grade=5 Priority=34.375 Difficulty=0.533 expFI=2
+    ElNo=44 Rep=1 Laps=0 Date=13.07.2023 Hour=10.167 Int=0 Grade=8 Priority=7.8125 expFI=99
+  End RepHist #44
+End Element #44
+
+Begin Element #45
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=38
+  ParentTitle=江城子·密州出�?
+  Priority=21.875
+  Begin ElementInfo #45
+    Title=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。[.]！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=44.000000
+    Repetitions=2
+    Lapses=0
+    Interval=40
+    LastRepetition=19.07.23
+    AFactor=5.158
+    UFactor=6.667
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=38
+  End ElementInfo #45
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(104,116,9698,7703)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。[...]！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8\83.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(104,7935,4987,1485)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=鬓微霜，又何�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8\84.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #45
+    ElNo=45 Rep=2 Laps=0 Date=19.07.2023 Hour=21.38 Int=6 Grade=5 Priority=29.6875 Difficulty=0.531 expFI=2
+    ElNo=45 Rep=1 Laps=0 Date=13.07.2023 Hour=10.168 Int=0 Grade=8 Priority=6.25 expFI=99
+  End RepHist #45
+End Element #45
+
+Begin Element #46
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=38
+  ParentTitle=江城子·密州出�?
+  Priority=25
+  Begin ElementInfo #46
+    Title=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！[.]？会挽雕弓如满月，西北望，射天狼�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=45.000000
+    Repetitions=2
+    Lapses=0
+    Interval=64
+    LastRepetition=19.07.23
+    AFactor=4.758
+    UFactor=10.667
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=38
+  End ElementInfo #46
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(104,116,9698,7703)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！[...]？会挽雕弓如满月，西北望，射天狼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8\85.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(104,7935,4987,1485)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=持节云中，何日遣冯唐
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8\86.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #46
+    ElNo=46 Rep=2 Laps=0 Date=19.07.2023 Hour=21.516 Int=6 Grade=5 Priority=31.25 Difficulty=0.532 expFI=2
+    ElNo=46 Rep=1 Laps=0 Date=13.07.2023 Hour=10.169 Int=0 Grade=8 Priority=9.375 expFI=99
+  End RepHist #46
+End Element #46
+
+Begin Element #47
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=38
+  ParentTitle=江城子·密州出�?
+  Priority=31.25
+  Begin ElementInfo #47
+    Title=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？[.]，西北望，射天狼�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=46.000000
+    Repetitions=2
+    Lapses=0
+    Interval=56
+    LastRepetition=19.07.23
+    AFactor=4.707
+    UFactor=9.333
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=38
+  End ElementInfo #47
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(104,116,9698,7703)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？[...]，西北望，射天狼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8\87.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(104,7935,4987,1485)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=会挽雕弓如满�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8\88.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #47
+    ElNo=47 Rep=2 Laps=0 Date=19.07.2023 Hour=21.518 Int=6 Grade=5 Priority=34.375 Difficulty=0.533 expFI=2
+    ElNo=47 Rep=1 Laps=0 Date=13.07.2023 Hour=10.17 Int=0 Grade=8 Priority=10.9375 expFI=99
+  End RepHist #47
+End Element #47
+
+Begin Element #48
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=38
+  ParentTitle=江城子·密州出�?
+  Priority=34.375
+  Begin ElementInfo #48
+    Title=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，[.]�?
+    Type=Item
+    Status=Memorized
+    FirstGrade=5
+    Ordinal=47.000000
+    Repetitions=2
+    Lapses=0
+    Interval=49
+    LastRepetition=19.07.23
+    AFactor=4.409
+    UFactor=8.167
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=38
+  End ElementInfo #48
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=2
+  Begin Component #1
+    Type=HTML
+    Cors=(104,116,9698,7703)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=江城�?· 密州出猎 [宋] 苏轼 老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎�?酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，[...]�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8\89.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin Component #2
+    Type=HTML
+    Cors=(104,7935,4987,1485)
+    DisplayAt=223
+    Hyperlink=0
+    HTMName=西北望，射天�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\8\90.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #2
+  Begin RepHist #48
+    ElNo=48 Rep=2 Laps=0 Date=19.07.2023 Hour=21.841 Int=6 Grade=5 Priority=35.9375 Difficulty=0.534 expFI=2
+    ElNo=48 Rep=1 Laps=0 Date=13.07.2023 Hour=10.172 Int=0 Grade=8 Priority=14.0625 expFI=99
+  End RepHist #48
+End Element #48
+
+Begin Element #49
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=28.125
+  Begin ElementInfo #49
+    Title=念奴�?· 赤壁怀�?
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=48.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #49
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=念奴�?· 赤壁怀�?[宋] 苏轼 大江东去，浪淘尽，千古风流人物。故垒西边，人道是，三国周郎赤壁。乱石穿空，惊涛拍岸，卷起千堆雪。江山如画，一时多少豪杰�?遥想公瑾当年，小乔初嫁了，雄姿英发。羽扇纶巾，谈笑间，樯橹灰飞烟灭。故国神游，多情应笑我，早生华发。人生如梦，一尊还酹江月�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9\92.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #49
+    ElNo=49 Rep=2 Laps=0 Date=19.07.2023 Hour=21.885 Int=5 Grade=10 Priority=17.1875
+    ElNo=49 Rep=1 Laps=0 Date=14.07.2023 Hour=10.123 Int=0 Grade=9 Priority=3.125
+  End RepHist #49
+End Element #49
+
+Begin Element #53
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=26.5625
+  Begin ElementInfo #53
+    Title=水调歌头·明月几时�?
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=51.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #53
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=水调歌头 [宋] 苏轼 明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间�?转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9\93.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #53
+    ElNo=53 Rep=2 Laps=0 Date=19.07.2023 Hour=21.892 Int=2 Grade=10 Priority=15.625
+    ElNo=53 Rep=1 Laps=0 Date=17.07.2023 Hour=10.281 Int=0 Grade=9 Priority=4.6875
+  End RepHist #53
+End Element #53
+
+Begin Element #54
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=42.1875
+  Begin ElementInfo #54
+    Title=水调歌头·安石在东�?
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=52.000000
+    Repetitions=2
+    Lapses=0
+    Interval=4
+    LastRepetition=19.07.23
+    AFactor=1.240
+    UFactor=4.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #54
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=水调歌头 [宋] 苏轼 安石在东海，从事鬓惊秋。中年亲友难别，丝竹缓离愁。一旦功成名遂，准拟东还海道，扶病入西州。雅志困轩冕，遗恨寄沧洲�?岁云暮，须早计，要褐裘。故乡归去千里，佳处辄迟留。我醉歌时君和，醉倒须君扶我，惟酒可忘忧。一任刘玄德，相对卧高楼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9\94.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #54
+    ElNo=54 Rep=2 Laps=0 Date=19.07.2023 Hour=21.85 Int=2 Grade=10 Priority=17.1875
+    ElNo=54 Rep=1 Laps=0 Date=17.07.2023 Hour=10.298 Int=0 Grade=9 Priority=4.6875
+  End RepHist #54
+End Element #54
+
+Begin Element #55
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=35.9375
+  Begin ElementInfo #55
+    Title=西江�?· 中秋和子�?
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=53.000000
+    Repetitions=2
+    Lapses=0
+    Interval=3
+    LastRepetition=19.07.23
+    AFactor=1.232
+    UFactor=3.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #55
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=西江�?· 中秋和子�?[宋] 苏轼 世事一场大梦，人生几度秋凉。夜来风叶已鸣廊，看取眉头鬓上�?酒贱常愁客少，月明多被云妨。中秋谁与共孤光，把盏凄然北望�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9\95.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #55
+    ElNo=55 Rep=2 Laps=0 Date=19.07.2023 Hour=21.625 Int=2 Grade=10 Priority=17.1875
+    ElNo=55 Rep=1 Laps=0 Date=17.07.2023 Hour=10.366 Int=0 Grade=9 Priority=4.6875
+  End RepHist #55
+End Element #55
+
+Begin Element #59
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=29.6875
+  Begin ElementInfo #59
+    Title=临江�?· 夜归临皋
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=57.000000
+    Repetitions=2
+    Lapses=0
+    Interval=3
+    LastRepetition=19.07.23
+    AFactor=1.232
+    UFactor=3.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #59
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=临江�?· 夜归临皋 [宋] 苏轼 夜饮东坡醒复醉，归来仿佛三更。家童鼻息已雷鸣，敲门都不应，倚杖听江声�?长恨此身非我有，何时忘却营营？夜阑风静縠纹平，小舟从此逝，江海寄余生�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9\98.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #59
+    ElNo=59 Rep=2 Laps=0 Date=19.07.2023 Hour=21.49 Int=2 Grade=10 Priority=15.625
+    ElNo=59 Rep=1 Laps=0 Date=17.07.2023 Hour=10.795 Int=0 Grade=9 Priority=4.6875
+  End RepHist #59
+End Element #59
+
+Begin Element #60
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=12.5
+  Begin ElementInfo #60
+    Title=临江�?· 送钱穆父
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=58.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #60
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=临江�?· 送钱穆父 [宋] 苏轼 一别都门三改火，天涯踏尽红尘。依然一笑作春温。无波真古井，有节是秋筠�?惆怅孤帆连夜发，送行淡月微云。尊前不用翠眉颦。人生如逆旅，我亦是行人�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9\99.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #60
+    ElNo=60 Rep=2 Laps=0 Date=19.07.2023 Hour=21.893 Int=2 Grade=10 Priority=7.8125
+    ElNo=60 Rep=1 Laps=0 Date=17.07.2023 Hour=10.808 Int=0 Grade=9 Priority=4.6875
+  End RepHist #60
+End Element #60
+
+Begin Element #61
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=10.9375
+  Begin ElementInfo #61
+    Title=自题金山画像
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=59.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #61
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=自题金山画像 [宋] 苏轼 心似已灰之木，身如不系之舟�?问汝平生功业，黄州惠州儋州�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9\100.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #61
+    ElNo=61 Rep=2 Laps=0 Date=19.07.2023 Hour=21.67 Int=2 Grade=10 Priority=9.375
+    ElNo=61 Rep=1 Laps=0 Date=17.07.2023 Hour=10.838 Int=0 Grade=9 Priority=4.6875
+  End RepHist #61
+End Element #61
+
+Begin Element #62
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=14.0625
+  Begin ElementInfo #62
+    Title=望江�?· 超然台作
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=60.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #62
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=望江�?· 超然台作 [宋] 苏轼 春未老，风细柳斜斜。试上超然台上望，半壕春水一城花，烟雨暗千家�?寒食后，酒醒却咨嗟。休对故人思故国，且将新火试新茶，诗酒趁年华�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\10\101.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #62
+    ElNo=62 Rep=2 Laps=0 Date=19.07.2023 Hour=21.536 Int=2 Grade=10 Priority=10.9375
+    ElNo=62 Rep=1 Laps=0 Date=17.07.2023 Hour=10.864 Int=0 Grade=9 Priority=4.6875
+  End RepHist #62
+End Element #62
+
+Begin Element #63
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=9.375
+  Begin ElementInfo #63
+    Title=卜算�?· 黄州定慧院寓居作
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=61.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #63
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=卜算�?· 黄州定慧院寓居作 [宋] 苏轼 缺月挂疏桐，漏断人初静。谁见幽人独往来，缥缈孤鸿影�?惊起却回头，有恨无人省。拣尽寒枝不肯栖，寂寞沙洲冷�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\10\102.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #63
+    ElNo=63 Rep=2 Laps=0 Date=19.07.2023 Hour=21.866 Int=2 Grade=10 Priority=7.8125
+    ElNo=63 Rep=1 Laps=0 Date=17.07.2023 Hour=10.876 Int=0 Grade=9 Priority=4.6875
+  End RepHist #63
+End Element #63
+
+Begin Element #64
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=7.8125
+  Begin ElementInfo #64
+    Title=阮郎�?· 初夏
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=62.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #64
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=阮郎�?· 初夏 [宋] 苏轼 绿槐高柳咽新蝉，薰风初入弦。碧纱窗下水沈烟，棋声惊昼眠�?微雨过，小荷翻，榴花开欲然。玉盆纤手弄清泉，琼珠碎却圆�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\10\103.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #64
+    ElNo=64 Rep=2 Laps=0 Date=19.07.2023 Hour=21.875 Int=2 Grade=10 Priority=6.25
+    ElNo=64 Rep=1 Laps=0 Date=17.07.2023 Hour=10.902 Int=0 Grade=9 Priority=4.6875
+  End RepHist #64
+End Element #64
+
+Begin Element #66
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=4.6875
+  Begin ElementInfo #66
+    Title=蝶恋�?· 京口得乡�?
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=64.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #66
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=蝶恋�?· 京口得乡�?[宋] 苏轼 雨后春容清更丽。只有离人，幽恨终难洗。北固山前三面水。碧琼梳拥青螺髻�?一纸乡书来万里。问我何年，真个成归计。回首送春拚一醉。东风吹破千行泪�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\10\105.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #66
+    ElNo=66 Rep=2 Laps=0 Date=19.07.2023 Hour=21.39 Int=2 Grade=10 Priority=3.125
+    ElNo=66 Rep=1 Laps=0 Date=17.07.2023 Hour=10.928 Int=0 Grade=9 Priority=4.6875
+  End RepHist #66
+End Element #66
+
+Begin Element #65
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=2
+  ParentTitle=苏轼·�?
+  Priority=6.25
+  Begin ElementInfo #65
+    Title=蝶恋�?· 春景
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=63.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #65
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=蝶恋�?· 春景 [宋] 苏轼 花褪残红青杏小。燕子飞时，绿水人家绕。枝上柳绵吹又少，天涯何处无芳草�?墙里秋千墙外道。墙外行人，墙里佳人笑。笑渐不闻声渐悄，多情却被无情恼�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\10\104.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #65
+    ElNo=65 Rep=2 Laps=0 Date=19.07.2023 Hour=21.635 Int=2 Grade=10 Priority=6.25
+    ElNo=65 Rep=1 Laps=0 Date=17.07.2023 Hour=10.916 Int=0 Grade=9 Priority=4.6875
+  End RepHist #65
+End Element #65
+
+Begin Element #51
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=1
+  ParentTitle=我的学习
+  Priority=93.75
+  Begin ElementInfo #51
+    Title=苏轼·�?
+    Type=Topic
+    Status=Dismissed
+    FirstGrade=8
+    Ordinal=50.000000
+    Repetitions=0
+    Lapses=0
+    Interval=0
+    LastRepetition=14.07.23
+    AFactor=1.200
+    UFactor=0.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #51
+  ElementColor=-1
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=0
+  Begin RepHist #51
+    ElNo=51 Rep=2 Laps=0 Date=14.07.2023 Hour=10.192 Int=0 Grade=12 Priority=3.125
+    ElNo=51 Rep=1 Laps=0 Date=14.07.2023 Hour=10.192 Int=0 Grade=9 Priority=3.125
+  End RepHist #51
+End Element #51
+
+Begin Element #52
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=51
+  ParentTitle=苏轼·�?
+  Priority=3.125
+  Begin ElementInfo #52
+    Title=赤壁�?
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=50.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #52
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=前赤壁赋 [宋] 苏轼 壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。清风徐来，水波不兴。举酒属客，诵明月之诗，歌窈窕之章。少焉，月出于东山之上，裴回于斗牛之间。白露横江，水光接天。纵一苇之所如，陵万顷之茫然。浩浩乎如凭虚御风，而不知其所止；飘飘乎如遗世独立，羽化而登仙�?于是饮酒乐甚，扣舷而歌之。歌曰：“桂棹兮兰桨，击空明兮溯流光。渺渺兮余怀，望美人兮天一方。”客有吹洞箫者，倚歌而和之。其声呜呜然，如怨如慕，如泣如诉；馀音袅袅，不绝如缕。舞幽壑之潜蛟，泣孤舟之嫠妇�?苏子愀然，正襟危坐，而问客曰：“何为其然也？”客曰：“‘月明星稀，乌鹊南飞。’此非曹孟德之诗乎？西望夏口，东望武昌，山川相缪，郁乎苍苍，此非孟德之困于周郎者乎？方其破荆州，下江陵，顺流而东也，舳舻千里，旌旗蔽空，酾酒临江，横槊赋诗，固一世之雄也，而今安在哉？况吾与子渔樵于江渚之上，侣鱼虾而友麋鹿，驾一叶之扁舟，举匏樽以相属。寄蜉蝣于天地，渺浮海之一粟。哀吾生之须臾，羡长江之无穷。挟飞仙以遨游，抱明月而长终。知不可乎骤得，托遗响于悲风。�?苏子曰：“客亦知夫水与月乎？逝者如斯，而未尝往也；赢虚者如彼，而卒莫消长也。盖将自其变者而观之，则天地曾不能以一瞬；自其不变者而观之，则物与我皆无尽也，而又何羡乎！且夫天地之间，物各有主，苟非吾之所有，虽一毫而莫取。惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色，取之无禁，用之不竭。是造物者之无尽藏也，而吾与子之所共食。�?客喜而笑，洗盏更酌。肴核既尽，杯盘狼籍。相与枕藉乎舟中，不知东方之既白�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\7\71.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #52
+    ElNo=52 Rep=2 Laps=0 Date=19.07.2023 Hour=21.374 Int=5 Grade=10 Priority=3.125
+    ElNo=52 Rep=1 Laps=0 Date=14.07.2023 Hour=10.196 Int=0 Grade=9 Priority=3.125
+  End RepHist #52
+End Element #52
+
+Begin Element #56
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=1
+  ParentTitle=我的学习
+  Priority=95.3125
+  Begin ElementInfo #56
+    Title=辛弃疾·词
+    Type=Topic
+    Status=Dismissed
+    FirstGrade=8
+    Ordinal=54.000000
+    Repetitions=0
+    Lapses=0
+    Interval=0
+    LastRepetition=17.07.23
+    AFactor=1.200
+    UFactor=0.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #56
+  ElementColor=-1
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=0
+  Begin RepHist #56
+    ElNo=56 Rep=2 Laps=0 Date=17.07.2023 Hour=10.559 Int=0 Grade=12 Priority=4.6875
+    ElNo=56 Rep=1 Laps=0 Date=17.07.2023 Hour=10.559 Int=0 Grade=9 Priority=4.6875
+  End RepHist #56
+End Element #56
+
+Begin Element #58
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=56
+  ParentTitle=辛弃疾·词
+  Priority=20.3125
+  Begin ElementInfo #58
+    Title=西江�?· 夜行黄沙道中
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=56.000000
+    Repetitions=2
+    Lapses=0
+    Interval=4
+    LastRepetition=19.07.23
+    AFactor=1.240
+    UFactor=4.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #58
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=西江�?· 夜行黄沙道中 [宋] 辛弃�?明月别枝惊鹊，清风半夜鸣蝉。稻花香里说丰年，听取蛙声一片�?七八个星天外，两三点雨山前。旧时茅店社林边，路转溪桥忽见�?
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9\97.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #58
+    ElNo=58 Rep=2 Laps=0 Date=19.07.2023 Hour=21.882 Int=2 Grade=10 Priority=9.375
+    ElNo=58 Rep=1 Laps=0 Date=17.07.2023 Hour=10.674 Int=0 Grade=9 Priority=4.6875
+  End RepHist #58
+End Element #58
+
+Begin Element #57
+  Source=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习
+  Parent=56
+  ParentTitle=辛弃疾·词
+  Priority=17.1875
+  Begin ElementInfo #57
+    Title=西江�?· 遣兴
+    Type=Topic
+    Status=Memorized
+    FirstGrade=8
+    Ordinal=55.000000
+    Repetitions=2
+    Lapses=0
+    Interval=2
+    LastRepetition=19.07.23
+    AFactor=1.222
+    UFactor=2.000
+    ForgettingIndex=10
+    Reference=
+    SourceArticle=0
+  End ElementInfo #57
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  ComponentNo=1
+  Begin Component #1
+    Type=HTML
+    Cors=(100,200,9700,9300)
+    DisplayAt=255
+    Hyperlink=0
+    HTMName=西江�?· 遣兴 [宋] 辛弃�?醉里且贪欢笑，要愁那得工夫。近来始觉古人书，信著全无是处�?昨夜松边醉倒，问松“我醉何如”。只疑松动要来扶，以手推松曰“去”！
+    HTMFile=f:\program files\tool\sm18-lazy-package-1.3.1\sm18\systems\我的学习\elements\9\96.HTM
+    TestElement=0
+    ReadOnly=0
+    FullHTML=1
+    Style=0
+  End Component #1
+  Begin RepHist #57
+    ElNo=57 Rep=2 Laps=0 Date=19.07.2023 Hour=21.827 Int=2 Grade=10 Priority=14.0625
+    ElNo=57 Rep=1 Laps=0 Date=17.07.2023 Hour=10.562 Int=0 Grade=9 Priority=4.6875
+  End RepHist #57
+End Element #57
+
